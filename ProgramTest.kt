@@ -3,10 +3,10 @@
 import java.util.Scanner
 
 
-val scanner = Scanner(System.`in`) // Do not change this line
+val scanner = Scanner(System.`in`) 
 
 fun main() {
-    greet("Aid", "2020") // change it as you need
+    greet("Aid", "2020") 
     remindName()
     guessAge()
     count()
@@ -70,5 +70,5 @@ fun answerpicker() {
 
 
 fun end() {
-    println("Congratulations, have a nice day!") // Do not change this text
+    println("Congratulations, have a nice day!") 
 }
